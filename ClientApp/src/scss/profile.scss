@@ -1,0 +1,31 @@
+#employee-profile {
+  background-color: #273747;
+  color: #fff;
+
+  h3 {
+    color: #9da1b3;
+  }
+
+  table {
+    width: 75%;
+    margin: auto;
+    background-color: #273747;
+    color: #efefef;
+  }
+  th {
+    text-align: initial;
+  }
+}
+
+.col-5, .col-6 {
+  margin: auto;
+}
+
+.btn {
+  display: block !important;
+  margin: auto;
+  width: 7rem;
+}
+#btn-switch {
+  width: 15rem;
+}
