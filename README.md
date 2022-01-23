@@ -7,7 +7,12 @@ Vacation System is a web application that provides a vaction system for employee
 1. Clone the code
 2. Make sure you have the necessary environments instlaled in your system; .NET 6 & Node 16
 3. Run ```cd ClientApp/``` then ```yarn install``` to install the front end dependencies
-4. Run ```cd ..``` then ```dotnet run```
+4. Run ```cd ..``` then the folowing in the same order to create the database
+```dotnet tool install --global dotnet-ef```
+```dotnet ef migrations add InitialCreate```
+```dotnet ef database update```
+then run the application by
+```dotnet run```
 
 ## Workflow
 * The entry page of the application comes after the login process
