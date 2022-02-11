@@ -15,9 +15,17 @@
   th {
     text-align: initial;
   }
+
+  img {
+    @media only screen and(max-width: 520px) {
+      width: 100px;
+      height: 100px;
+    }
+  }
 }
 
-.col-5, .col-6 {
+.col-5,
+.col-6 {
   margin: auto;
 }
 
