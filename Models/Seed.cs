@@ -28,9 +28,9 @@ namespace VacationSystem.Models
                             HiringDate = hiringDate,
                             Image = "amir-latif.jpg",
                             DateOfBirth = new DateTime(1992, 08, 07),
-                            Mobile = 1287026169,
-                            Email = "amirwesa@gmail.com",
-                            Address = "Cairo",
+                            Mobile = 4585258735,
+                            Email = "amir.j.latif@outlook.com",
+                            Address = "Egypt",
                         }
                     );
                     context.SaveChanges();
