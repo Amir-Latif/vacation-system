@@ -20,7 +20,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build && cp -R build/* ../wwwroot",
+    "build": "react-scripts build && cd .. && rm -rf wwwroot && cd ClientApp/ && mv build ../wwwroot",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },

@@ -1,6 +1,5 @@
 E:\CS\Web\Interview\Marbella\VacationSystem\bin\Debug\net6.0\appsettings.Development.json
 E:\CS\Web\Interview\Marbella\VacationSystem\bin\Debug\net6.0\appsettings.json
-E:\CS\Web\Interview\Marbella\VacationSystem\bin\Debug\net6.0\ClientApp\build\manifest.json
 E:\CS\Web\Interview\Marbella\VacationSystem\bin\Debug\net6.0\ClientApp\package.json
 E:\CS\Web\Interview\Marbella\VacationSystem\bin\Debug\net6.0\ClientApp\public\manifest.json
 E:\CS\Web\Interview\Marbella\VacationSystem\bin\Debug\net6.0\ClientApp\tsconfig.json
@@ -84,4 +83,3 @@ E:\CS\Web\Interview\Marbella\VacationSystem\obj\Debug\net6.0\VacationSystem.dll
 E:\CS\Web\Interview\Marbella\VacationSystem\obj\Debug\net6.0\ref\VacationSystem.dll
 E:\CS\Web\Interview\Marbella\VacationSystem\obj\Debug\net6.0\VacationSystem.pdb
 E:\CS\Web\Interview\Marbella\VacationSystem\obj\Debug\net6.0\VacationSystem.genruntimeconfig.cache
-E:\CS\Web\Interview\Marbella\VacationSystem\bin\Debug\net6.0\ClientApp\build\asset-manifest.json
